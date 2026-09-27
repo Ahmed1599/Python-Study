@@ -81,7 +81,7 @@ print(tuple(Car))
 print(set(Car))
 print(frozenset(Car))
 
-dict = {"name": "Fehmi", "Age": 18}
+my_dict = {"name": "Fehmi", "Age": 18}
 
-print(dict)
+print(my_dict)
 

@@ -1,6 +1,6 @@
 pi = 3.14159
 
-r = float(input("Daire alanini  giriniz:"))
+r = float(input("Daire yaricapini giriniz:"))
 
 daire_alani = pi*r*r
 daire_cevresi = 2*pi*r
